@@ -6,7 +6,7 @@ FRE-GY 7871 A · NLP and the Investment Process
 
 **Name:** Param Shah
 **NetID:** pks9550
-**GitHub repo:** https://github.com/paramshahh/FRE-GY-7871A-Assignment1
+**GitHub repo:** https://github.com/param-nyu/FRE-GY-7871A-Assignment1
 
 ---
 
