@@ -13,9 +13,19 @@ __pycache__/
 venv/
 .env
 .DS_Store
-outputs/*
-!outputs/.gitkeep
 
 # Instructor-built data archive, distributed as a GitHub Release asset
 ark_filings_*.tar.gz
 download.log
+
+outputs/*
+!outputs/.gitkeep
+
+# ---- Assignment 4 ----
+assignment4/.env
+assignment4/data/**
+!assignment4/data/
+!assignment4/data/*/
+!assignment4/data/**/.gitkeep
+assignment4/outputs/*
+!assignment4/outputs/.gitkeep
